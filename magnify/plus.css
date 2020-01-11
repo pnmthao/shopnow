@@ -1,0 +1,192 @@
+.main-header > .navbar.navbar-static-top{
+    /* background-color: white; */
+    background-image: linear-gradient(to left, aqua , Blue);
+  }
+
+  .main-header > .navbar.navbar-static-top >.container>.navbar-header a{
+    /* color : black; */
+    background-image: linear-gradient(to right, aqua , Blue);
+    
+    border: 0.5px solid black;
+    border-radius: 25px;
+    padding: 10px;
+
+  }
+  #navbar-collapse > .nav.navbar-nav li a{
+    /* color: black; */
+    font-weight: bold;
+  
+  }
+
+
+  #nav-btn {
+    color: black;
+    
+  }
+
+
+  .login-page{
+    margin: 0;
+    padding: 0;
+    background-color:#41a5e7;
+  }
+  .login-page:before{
+    content: '';
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("4.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    background-color:aqua;
+  }
+  .login-box-body{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 400px;
+  height: 500px;
+  padding: 80px 40px;
+  box-sizing: border-box;
+  background: rgba(0,0,0,.5);
+  
+  }
+  .login-box-msg{
+    border: 3px solid aqua;
+    border-radius: 25px;
+    text-align:center;
+    padding:5px;
+    padding-right:5px;
+    font-weight: bold;
+    font-size: 25px;
+    background: -webkit-linear-gradient(blue,aqua);
+           -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+  }
+  .col-centered{
+  float: none;
+  margin: 0 auto;
+  }
+
+  /* .form-control {
+  -webkit-appearance: textfield;
+  background-color: white;
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  padding: 1px;
+  border: 1px solid aqua;
+  border-radius: 10px !important;
+  } */
+  .form1 > .form-group input[type="email"],
+  .form1 > .form-group input[type="password"],
+  .form1 > .form-group input[type="text"]
+  {
+      border: none;
+      border-bottom: 1px solid #fff;
+      background: transparent;
+      outline: none;
+      height: 40px;
+      color: #fff;
+      font-size: 16px;
+  }
+  #btnLogin{
+      height: 30px;
+     
+      color: #fff;
+      font-size: 15px;
+      background: red;
+      cursor: pointer;
+      border-radius: 25px;
+      border: none;
+      outline: none;
+      margin-top: 15%;
+      }
+
+
+  .login-box-body a{
+    padding-top:20px;
+    font-weight:bold;
+    float:left;
+    color:white;
+    margin-top:10px;
+    margin-right:40px;
+  }
+
+
+
+  .register-page{
+    margin: 0;
+    padding: 0;
+    background-color:#41a5e7;
+  }
+  .register-page:before{
+    content: '';
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("4.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    background-color:aqua;
+  }
+  .register-box-body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 500px;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,.5);
+    }
+    .register-box-body p{
+        
+        padding: 0;
+        font-weight: bold;
+        color: #fff;
+    }
+  
+    #btnForgotPass,#btnSignUp{
+        height: 30px;
+       
+        color: #fff;
+        font-size: 15px;
+        background: red;
+        cursor: pointer;
+        border-radius: 25px;
+        border: none;
+        outline: none;
+        margin-top: 15%;
+        }
+
+    .register-box-body a{
+        padding-top:20px;
+        font-weight:bold;
+        float:left;
+        color:white;
+        margin-top:10px;
+        margin-right:60px;
+        }
+     
+        
+
+    
+    
+            
+  

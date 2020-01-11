@@ -1,0 +1,23 @@
+                         : : : : : Hý?ng D?n S? D?ng : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>>
+>>ðãng nh?p tài kho?n admin ð? truy c?p trang admin panel.
+
+Username: admin@gmail.com
+Password: 1
+
+tài kho?n khách hàng demo:
+
+Username: cauvang@gmail.com
+Password: 1
+
+DATABASE Có tên là "shopnow".
+
+>>DATABASE trong thý m?c "database" !
+
+***** ------------------------------------------------------------ *****  
+
+
+
